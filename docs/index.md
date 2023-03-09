@@ -2,8 +2,7 @@
 layout: default
 ---
 
-
-# Abstract
+## Abstract
 
 When humans see a scene, they can roughly
 imagine the forces applied to objects based on their experience
