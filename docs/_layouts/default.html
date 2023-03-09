@@ -20,7 +20,7 @@
       <h2 class="project-author">{{ page.author | default: site.author }}</h2>
       <h2 class="project-affiliation">{{ page.affiliation | default: site.affiliation }}</h2>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      {% if site.github.is_project_page %}
+      {% if site.show_git_project & site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
       {% if site.show_downloads %}

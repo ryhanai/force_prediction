@@ -5,3 +5,4 @@ show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
 paper: http://www.google.co.jp
+show_git_project: false
