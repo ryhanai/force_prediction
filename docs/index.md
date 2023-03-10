@@ -31,8 +31,7 @@ overlapping.
 
 ## Video
 
-force mapの動画に差し替える
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l0IxeqxaI7Q" title="Stiffness-based grasp pose detection from a visible image" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="863" height="486" src="https://www.youtube.com/embed/BhEm65I6UIE" title="Force Map: Learning to Predict Contact Force Distribution from Vision" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Predicted Force Maps
 
