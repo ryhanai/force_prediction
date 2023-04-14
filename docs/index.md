@@ -49,9 +49,9 @@ overlapping.
 
 ```
 @article{hanai2023fmap,
-  title={Force Map: Learning to Predict Contact Force Distribution from Vision"},
+  title={Force Map: Learning to Predict Contact Force Distribution from Vision},
   author={Ryo Hanai and Yukiyasu Domae and Ixchel G. Ramirez-Alpizar and Bruno Leme and Tetsuya Ogata},
-  journal={arXiv preprint arXiv:????.?????},
+  journal={arXiv preprint arXiv:2304.05803v1},
   year={2023}
 }
 ```
@@ -62,4 +62,6 @@ We would like to thank Natsuki Yamanobe and Abdullah
 Mustafa of AIST for their useful discussions. This work
 was supported by JST [Moonshot R&D][Grant Number
 JPMJMS2031].
-![aist_logo](./images/aist_logo.png)![moonshot_logo](./images/moonshot_logo.png)
+<img src="./images/aist_logo.png" width="300">
+![moonshot_logo](./images/moonshot_logo.png)
+<img src="./images/AIREC_logo_vertical.png" width="180">
